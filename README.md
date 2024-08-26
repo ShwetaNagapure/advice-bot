@@ -9,7 +9,6 @@ This is a Flask-based web application that provides personalized financial advic
 - [Application Structure](#application-structure)
 - [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Installation
 
@@ -23,8 +22,8 @@ This is a Flask-based web application that provides personalized financial advic
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/financial-advice-bot.git
-    cd financial-advice-bot
+    git clone https://github.com/your-username/advice-bot.git
+    cd advice-bot
     ```
 
 2. Install the required packages:
@@ -84,6 +83,3 @@ This is a Flask-based web application that provides personalized financial advic
 - **HTML/CSS**: For the frontend user interface.
 - **JavaScript**: For client-side interactions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
