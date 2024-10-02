@@ -5,7 +5,7 @@ from vertexai.preview.generative_models import GenerativeModel, GenerationConfig
 app = Flask(__name__)
 
 # Initialize Vertex AI
-vertexai.init(project="bob-rg7-gcp", location="us-central1")
+vertexai.init(project="", location="")
 
 prompt_template = """You are an AI assistant that helps people with financial advice. The answer should be descriptive.
 I am of age: {age}
